@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Nyawa
+comment1.params=
+comment1.target=Nyawa()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=lokasiX
+comment3.target=void\ setLokasiX(int)
+comment4.params=
+comment4.target=int\ getLokasiX()
+comment5.params=lokasiY
+comment5.target=void\ setLokasiY(int)
+comment6.params=
+comment6.target=int\ getLokasiY()
+numComments=7

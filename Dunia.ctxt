@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dunia
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dunia\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Dunia()
+comment2.params=offsetX\ offsetY
+comment2.target=void\ prepareNyawaBar(int,\ int)
+comment3.params=
+comment3.target=java.util.ArrayList\ getNyawaBar()
+comment4.params=
+comment4.target=void\ started()
+comment5.params=
+comment5.target=void\ stopped()
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=7
